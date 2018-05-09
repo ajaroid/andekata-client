@@ -1,0 +1,53 @@
+a,
+a:hover {
+    color: #37b1ad;
+}
+#root,
+#root [data-reactroot],
+.app-root {
+    height: 100%;
+}
+
+.app-login {
+    height: 100%;
+}
+
+.ui.basic.segment {
+    padding: 2em;
+}
+
+.app-sidebar-column {
+    padding: 0!important;
+    border-right: 1px solid #dfdfdf !important;
+    overflow-y: auto!important;
+}
+
+.app-sidebar-menu {
+    width: 100%!important;
+    border: none!important;
+    box-shadow: none!important;
+}
+
+.ui.grid.app-pushable {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+  padding-top: 52.41px!important;
+}
+
+.app-pusher {
+  max-height: 100%;
+  overflow-y: auto!important;
+}
+
+.app-main-menu {
+  margin-bottom: 0;
+  border-radius: none;
+}
+
+.ui.selection.dropdown>.search.icon {
+    padding: 10px;
+}
