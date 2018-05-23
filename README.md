@@ -1,5 +1,5 @@
 
-<h3 align="center">Andekata</h3>
+<h1 align="center">Andekata</h1>
 <p align="center">* version : 1.0.3-beta</p>
 <p align="center">* codename : yudistira</p>
 <p align="center">* license : MIT</p>
