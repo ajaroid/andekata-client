@@ -1,10 +1,10 @@
 
-# Andekata
-* version : 1.0.3-beta
-* codename : yudistira
-* license : MIT
+<h3 align="center">Andekata</h3>
+<p align="center">* version : 1.0.3-beta</p>
+<p align="center">* codename : yudistira</p>
+<p align="center">* license : MIT</p>
 
-## About Andekata
+## About
 
 Andekata merupakan aplikasi untuk mengolah informasi data pada sebuah Desa yang dikembangkan dengan tujuan untuk memenuhi beberapa kebutuhan mulai dari mencatat data kependudukan hingga keperluan administrasi surat menyurat. Untuk kedepannya, aplikasi ini akan terus dikembangkan dengan menyesuaikan kebutuhan yang terus bertambah.
 
