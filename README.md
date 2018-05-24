@@ -10,7 +10,7 @@ Andekata merupakan aplikasi untuk mengolah informasi data pada sebuah Desa yang 
 
 ## Andekata Web Client 
 
-Repository Andekata Web Client ini dikembangkan menggunakan framework Javascript ReactJs. Andekata Web Client terhubung dengan [Andekata API] (https://github.com/ajaroid/andekata-api) sebagai penyedia API.
+Repository Andekata Web Client ini dikembangkan menggunakan framework Javascript ReactJs. Andekata Web Client terhubung dengan [Andekata API](https://github.com/ajaroid/andekata-api) sebagai penyedia API.
 
 ## Requirements
 
