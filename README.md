@@ -95,7 +95,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Andhika Yuana** - *yuana* - [Facebook](https://www.facebook.com/yuana.andhika)
-* **Arif Yeri Pratama** - *pirey*
-* **Shinta Saptarini** - *shintasapta*
-* **Syahroni** - *syahrn*
+* **Andhika Yuana** - *@andhikayuana* - [Facebook](https://www.facebook.com/yuana.andhika)
+* **Arif Yeri Pratama** - *@pirey*
+* **Shinta Saptarini** - *@shintasapta*
+* **Syahroni** - *@syahrn*
