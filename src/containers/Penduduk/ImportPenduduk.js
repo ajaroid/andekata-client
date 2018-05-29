@@ -3,7 +3,7 @@ import { connect } from 'react-redux'
 import { Modal, Icon, Button } from 'semantic-ui-react'
 import { fetchOptions as fetchKelurahanOptions } from '../../reducers/options/kelurahan'
 import { importPenduduk } from '../../actions/penduduk'
-import { renderSelection as Selection } from '../Form'
+import { renderSelection as Selection } from 'components/Form'
 
 class ImportPenduduk extends React.Component {
   constructor () {

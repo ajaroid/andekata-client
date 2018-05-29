@@ -2,7 +2,7 @@ import React from 'react'
 import { Message, Segment, Form, Dimmer, Loader } from 'semantic-ui-react'
 import { reduxForm } from 'redux-form'
 import { combineValidators, isRequired, composeValidators } from 'revalidate'
-import { Field, isEmail } from '../Form'
+import { Field, isEmail } from 'components/Form'
 
 let LoginForm = ({ error, handleSubmit, isLoading }) => {
   return (

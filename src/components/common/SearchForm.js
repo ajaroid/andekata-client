@@ -1,7 +1,7 @@
 import React from 'react'
 import { Form } from 'semantic-ui-react'
 import { reduxForm } from 'redux-form'
-import { SimpleField } from 'containers/Form'
+import { SimpleField } from 'components/Form'
 
 let SearchForm = ({ onSubmit, handleSubmit }) => (
   <Form onSubmit={handleSubmit(onSubmit)}>

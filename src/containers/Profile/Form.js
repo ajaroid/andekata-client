@@ -4,7 +4,7 @@ import { Form, Dimmer, Loader, Message } from 'semantic-ui-react'
 import { reduxForm, change as changeVal } from 'redux-form'
 import { uploadPhoto } from '../../actions/employee'
 import { combineValidators, isRequired, composeValidators } from 'revalidate'
-import { Field, Selection, isEmail, FileInput } from '../Form'
+import { Field, Selection, isEmail, FileInput } from 'components/Form'
 import { fetchOptions as fetchPositionOptions } from '../../reducers/options/position'
 import { fetchOptions as fetchStatusKawinOptions } from '../../reducers/options/statusKawin'
 

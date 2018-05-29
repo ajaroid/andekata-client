@@ -4,7 +4,7 @@ import { Form, Dimmer, Loader, Message } from 'semantic-ui-react'
 import { Link } from 'react-router-dom'
 import { reduxForm, change as changeVal } from 'redux-form'
 import { combineValidators, isRequired, composeValidators } from 'revalidate'
-import { FileInput, Field, Selection, isEmail } from '../Form'
+import { FileInput, Field, Selection, isEmail } from 'components/Form'
 import { uploadPhoto } from '../../actions/employee'
 
 class FormClass extends React.Component {

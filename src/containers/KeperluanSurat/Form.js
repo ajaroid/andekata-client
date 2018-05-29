@@ -8,7 +8,7 @@ import {
   composeValidators,
   hasLengthLessThan
 } from 'revalidate'
-import { Selection, Field } from '../Form'
+import { Selection, Field } from 'components/Form'
 
 class FormClass extends React.Component {
   render () {

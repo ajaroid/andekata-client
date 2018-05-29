@@ -3,7 +3,7 @@ import { Header, Grid, Divider, Icon, Form, Dimmer, Loader, Message } from 'sema
 import { Link } from 'react-router-dom'
 import { reduxForm } from 'redux-form'
 import { combineValidators, isRequired, composeValidators } from 'revalidate'
-import { Field, Selection } from '../Form'
+import { Field, Selection } from 'components/Form'
 
 class FormClass extends React.Component {
   render () {

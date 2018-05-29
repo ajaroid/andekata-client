@@ -4,7 +4,7 @@ import { Form, Dimmer, Loader, Message } from 'semantic-ui-react'
 import { Link } from 'react-router-dom'
 import { reduxForm } from 'redux-form'
 import { combineValidators, isRequired, composeValidators } from 'revalidate'
-import { Selection } from '../Form'
+import { Selection } from 'components/Form'
 import { fetchOptions as fetchPendudukOptions } from '../../reducers/options/penduduk'
 import { fetchOptions as fetchShkOptions } from '../../reducers/options/shk'
 

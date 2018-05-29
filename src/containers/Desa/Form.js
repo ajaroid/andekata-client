@@ -3,7 +3,7 @@ import { Form, Dimmer, Loader, Message } from 'semantic-ui-react'
 import { Link } from 'react-router-dom'
 import { reduxForm, change as changeVal } from 'redux-form'
 import { combineValidators, isRequired, composeValidators } from 'revalidate'
-import { FileInput, Field, Selection } from '../Form'
+import { FileInput, Field, Selection } from 'components/Form'
 import { connect } from 'react-redux'
 import { uploadLogo } from '../../actions/desa'
 

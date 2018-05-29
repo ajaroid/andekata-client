@@ -4,7 +4,7 @@ import { Divider, Grid, Icon, Form, Dimmer, Loader, Message } from 'semantic-ui-
 import { Link } from 'react-router-dom'
 import { reduxForm } from 'redux-form'
 import { combineValidators, isRequired, composeValidators } from 'revalidate'
-import { Field, Selection } from '../Form'
+import { Field, Selection } from 'components/Form'
 import { fetchOptions as fetchKelurahanOptions } from '../../reducers/options/kelurahan'
 import { fetchOptions as fetchKkOptions } from '../../reducers/options/kk'
 import { fetchOptions as fetchNikOptions } from '../../reducers/options/nik'
