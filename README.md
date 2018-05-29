@@ -8,17 +8,15 @@
 
 Andekata merupakan aplikasi untuk mengolah informasi data pada sebuah Desa yang dikembangkan dengan tujuan untuk memenuhi beberapa kebutuhan mulai dari mencatat data kependudukan hingga keperluan administrasi surat menyurat. Untuk kedepannya, aplikasi ini akan terus dikembangkan dengan menyesuaikan kebutuhan yang terus bertambah.
 
-## Andekata Web Client 
+## Andekata Web Client
 
 Repository Andekata Web Client ini dikembangkan menggunakan framework Javascript ReactJs. Andekata Web Client terhubung dengan [Andekata API](https://github.com/ajaroid/andekata-api) sebagai penyedia API.
 
 ## Requirements
 
-* [nodejs & npm](https://nodejs.org) (download versi stabil terkini) 
+* [nodejs & npm](https://nodejs.org) (download versi stabil terkini)
     - *Catatan:* Pastikan install nodejs terlebih dahulu sebelum menginstall tools yang lain
-* [yarn](https://yarnpkg.com)
-    - `npm i -g yarn`
-* [standardjs](https://standardjs.com) 
+* [standardjs](https://standardjs.com)
     - `npm i -g standard`
     - install [editor plugin](https://standardjs.com/#are-there-text-editor-plugins) untuk pengecekan kesalahan & perbaikan secara otomatis
 
@@ -40,7 +38,7 @@ git clone git@github.com:ajaroid/andekata-client.git
 
 Setelah clone project, install dependensi dengan menjalankan perintah berikut di folder project :
 ```
-yarn
+npm install
 ```
 
 ## Setup `.env`
@@ -64,8 +62,8 @@ Untuk info lengkap mengenai konfigurasi di file `.env`, anda bisa merujuk ke [si
 Jalankan aplikasi dengan menggunakan perintah berikut:
 
 ```
-yarn start
-``` 
+npm start
+```
 
 Browser akan otomatis terbuka dan mengarah ke `http://localhost:3000`. Jika browser tidak terbuka secara otomatis, anda bisa mengaksesnya secara manual.
 

@@ -3,7 +3,7 @@ import './style.css'
 
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Root from './components/Root'
+import Root from './containers/Root'
 import configureStore from './lib/configureStore'
 
 const store = configureStore()
