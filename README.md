@@ -2,7 +2,6 @@
 <h1 align="center">Andekata</h1>
 <p align="center">* version : 1.0.3-beta</p>
 <p align="center">* codename : yudistira</p>
-<p align="center">* license : MIT</p>
 
 ## About
 
@@ -99,3 +98,19 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * **Arif Yeri Pratama** - *@pirey*
 * **Shinta Saptarini** - *@shintasapta*
 * **Syahroni** - *@syahrn*
+
+## Lisensi 
+
+* Anda bebas menggunakan perangkat lunak ini sebagai sarana pendukung manajemen informasi Desa sesuai ketentuan yang kami terapkan.
+* Kami berusaha mengembangkan perangkat lunak yang telah diuji dan layak untuk digunakan, namun kami tidak bisa memberikan garansi dari segala macam tuntutan akibat dari penggunaan perangkat lunak yang disebabkan oleh kesalahan anda sebagai pengguna akhir.
+* Dilarang menggunakan program kami tanpa ijin.
+* Dilarang memperjual belikan perangkat lunak kami tanpa ijin.
+* Dilarang memodifikasi, membongkar atau merekayasa balik perangkat lunak.
+
+Undang-undang perlindungan tentang Hak Cipta dan Hak Atas Kekayaan Intelektual (HAKI) 
+
+1. Barang siapa dengan sengaja dan tanpa hak melakukan perbuatan sebagaimana dimaksud dalam Pasal 2 ayat (1) atau Pasal 49 ayat (1) dan ayat (2) dipidana dengan pidana penjara masing-masing paling sedikit 1 (satu) bulan dan/ atau denda paling sedikit Rp 1.000.000,00 (satu juta rupiah), atau pidana penjara paling lama 7 (tujuh) tahun dan/ atau denda paling banyak Rp5.000.0000.000,00 (lima miliar rupiah). 
+
+2. Barang siapa dengan sengaja menyiarkan, memamerkan, mengedarkan, atau menjual kepada umum suatu ciptaan atau barang hasil pelanggaran hak cipta atau hak terkait sebagaimana dimaksud pada ayat 1 (satu) dipidana dengan pidana penjara paling lama 5 (lima) tahun dan/ atau denda paling banyak Rp500.000.000,00 (lima ratus juta rupiah).
+
+3. Barang siapa dengan sengaja dan tanpa hak memperbanyak penggunaan untuk kepentingan komersial suatu program komputer dipidana dengan pidana penjara paling lama 5 (lima) tahun dan/ atau denda paling banyak Rp1.000.000.000,00 (satu miliar rupiah).
